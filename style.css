@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+title {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    background-color: blue;
+    text-emphasis-color: aliceblue;
+}
+h2 {
+    text-align: center
+}
